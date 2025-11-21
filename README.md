@@ -1,3 +1,7 @@
 # tryinggit
 
-editting it
+editing it
+
+
+about the edit:
+learning git 
